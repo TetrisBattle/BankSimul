@@ -1,0 +1,16 @@
+debug/keyboard.o
+debug/main.o
+debug/banksimul.o
+debug/numpad.o
+debug/rahannosto.o
+debug/rahantalletus.o
+debug/rahansiirto.o
+debug/tilitapahtumat.o
+debug/qrc_kuvat.o
+debug/moc_banksimul.o
+debug/moc_keyboard.o
+debug/moc_numpad.o
+debug/moc_rahannosto.o
+debug/moc_rahantalletus.o
+debug/moc_rahansiirto.o
+debug/moc_tilitapahtumat.o

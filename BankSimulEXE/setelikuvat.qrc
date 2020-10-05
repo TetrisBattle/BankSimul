@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>kuvat/10e.jpg</file>
+        <file>kuvat/20e.jpg</file>
+        <file>kuvat/50e.png</file>
+        <file>kuvat/100e.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+release/keyboard.o
+release/main.o
+release/banksimul.o
+release/numpad.o
+release/rahannosto.o
+release/rahantalletus.o
+release/rahansiirto.o
+release/tilitapahtumat.o
+release/qrc_kuvat.o
+release/moc_banksimul.o
+release/moc_keyboard.o
+release/moc_numpad.o
+release/moc_rahannosto.o
+release/moc_rahantalletus.o
+release/moc_rahansiirto.o
+release/moc_tilitapahtumat.o
